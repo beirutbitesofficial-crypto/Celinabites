@@ -1,0 +1,43 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/0mf_ms6gblo0x.js"
+3:I[7761,["$2"],"LangProvider"]
+4:I[96276,["$2"],"CartProvider"]
+5:I[39756,["$2"],"default"]
+6:I[37457,["$2"],"default"]
+8:"/_next/static/chunks/20phmgrlrhkn7.js"
+9:I[42724,["$2","$8"],"default"]
+a:I[92349,["$2","$8"],"default"]
+b:I[48127,["$2","$8"],"default"]
+c:I[32772,["$2","$8"],"default"]
+d:I[40282,["$2","$8"],"default"]
+e:I[16504,["$2","$8"],"default"]
+f:I[11590,["$2","$8"],"default"]
+10:I[56691,["$2","$8"],"default"]
+11:I[12902,["$2","$8"],"CartPill"]
+12:I[12902,["$2","$8"],"CartDrawer"]
+13:I[97367,["$2"],"OutletBoundary"]
+14:"$Sreact.suspense"
+16:"ViewportBoundary"
+17:I[97367,["$2"],"$16"]
+19:"MetadataBoundary"
+1a:I[97367,["$2"],"$19"]
+1c:I[68027,["$2"],"default",1]
+:HL["/_next/static/chunks/3vz4dp5j379rk.css","style"]
+:HL["/_next/static/media/2a65768255d6b625-s.p.3u4lli0-axodc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/308823598d090913-s.p.1o-9h6wxnmd7v.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/458e5297e26af6a4-s.p.35jxqqhqnr05h.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/48e6fa8a5baca31f-s.p.14yttwb5hb7vt.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4b676bcffc00356a-s.p.24y4-vc3jpn8m.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/610e555290c4abf9-s.p.2-ung-zkeya_q.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/70e3db2de7f94926-s.p.39pl-v7c3qrze.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7ca057cce9853046-s.p.0i035u9dx55k8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a343f882a40d2cc9-s.p.1sj6eobyi31rd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d54db18e8cd5f74f-s.p.0ji0xjltb6ro5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/dda2c5944c1d02d1-s.p.0af27si8jwinc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e9f32d51db34fd0c-s.p.3dvstry878_5j.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+7:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[[["$","$L9",null,{}],["$","main",null,{"children":[["$","$La",null,{}],["$","$Lb",null,{}],["$","$Lc",null,{}],["$","$Ld",null,{}],["$","$Le",null,{}],["$","$Lf",null,{}]]}],["$","$L10",null,{}],["$","$L11",null,{}],["$","$L12",null,{}]],[["$","script","script-0",{"src":"/_next/static/chunks/20phmgrlrhkn7.js","async":true,"nonce":"$undefined"}]],["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]]}],"p":false,"v":null}}]]
+0:{"P":null,"c":["",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3vz4dp5j379rk.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0mf_ms6gblo0x.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ar","dir":"rtl","className":"aqS3ka_variable T83JYa_variable bvHveq_variable _4bKr8G_variable _3-3bPW_variable _4gDtkG_variable","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"document.documentElement.classList.add('js');try{if(localStorage.getItem('celinabites.lang')==='en'){document.documentElement.lang='en';document.documentElement.dir='ltr'}}catch(e){}"}}]}],["$","body",null,{"className":"bg-ink font-sans text-dough antialiased","children":[["$","$L3",null,{"children":["$","$L4",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}],["$","div",null,{"className":"grain","aria-hidden":"true"}]]}]]}]]}],"p":false,"v":null},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[null,["$","$L17",null,{"children":"$L18"}],["$","$L1a",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$14",null,{"name":"Next.Metadata","children":"$L1b"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$1c",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3vz4dp5j379rk.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"HUGvjuLCjeqme3VqE5fQJ"}
+18:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#120D0A"}]]
+1d:I[27201,["$2"],"IconMark"]
+15:null
+1b:[["$","title","0",{"children":"Celina Pastry | سيلينا باستري — مناقيش، كرواسون، بيتزا، معجنات"}],["$","meta","1",{"name":"description","content":"Celina Pastry — مناقيش، كرواسون، بيتزا، معجنات وكعك لبناني طازج كل يوم. Fresh manakish, croissants, pizza, pastries and kaak — order on WhatsApp."}],["$","meta","2",{"name":"keywords","content":"Celina Pastry,سيلينا باستري,Celina Bites,مناقيش,كرواسون,بيتزا,معجنات,كعك,manakish,Lebanon"}],["$","meta","3",{"property":"og:title","content":"Celina Pastry | سيلينا باستري"}],["$","meta","4",{"property":"og:description","content":"مناقيش · كرواسون · بيتزا · معجنات — كل لقمة بطعم البيت"}],["$","meta","5",{"property":"og:url","content":"https://celinabites.com/"}],["$","meta","6",{"property":"og:image","content":"https://celinabites.com/og.png"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],["$","meta","8",{"property":"og:image:height","content":"630"}],["$","meta","9",{"property":"og:image:alt","content":"Celina Pastry"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"Celina Pastry | سيلينا باستري"}],["$","meta","13",{"name":"twitter:description","content":"مناقيش · كرواسون · بيتزا · معجنات — كل لقمة بطعم البيت"}],["$","meta","14",{"name":"twitter:image","content":"https://celinabites.com/og.png"}],["$","meta","15",{"name":"twitter:image:alt","content":"Celina Pastry"}],["$","meta","16",{"name":"twitter:image:width","content":"1200"}],["$","meta","17",{"name":"twitter:image:height","content":"630"}],["$","link","18",{"rel":"icon","href":"/icon.svg","type":"image/svg+xml"}],["$","$L1d","19",{}]]
