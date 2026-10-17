@@ -34,7 +34,7 @@ export default function Nav() {
   return (
     <header className={`fixed inset-x-0 top-0 z-40 transition-all duration-500 ${scrolled ? "pointer-events-none -translate-y-full opacity-0" : "opacity-100"}`}>
       <div className="mx-auto flex max-w-[1600px] items-center justify-between px-5 py-5 md:px-10">
-        <a href="#top" aria-label="Celina Bites">
+        <a href="#top" aria-label="Celina Pastry">
           <Logo markClass="h-8 w-8" className="[&>span:last-child]:hidden sm:[&>span:last-child]:inline" />
         </a>
         <nav className="flex items-center gap-1 text-xs font-semibold uppercase tracking-[0.25em]">

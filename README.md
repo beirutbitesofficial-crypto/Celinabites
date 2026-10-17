@@ -1,6 +1,6 @@
-# Celina Bites — website
+# Celina Pastry — website
 
-Cinematic one-page site + full online menu for **Celina Bites** (مناقيش · كرواسون · بيتزا · معجنات).
+Cinematic one-page site + full online menu for **Celina Pastry** (مناقيش · كرواسون · بيتزا · معجنات).
 Next.js (App Router) · React · TypeScript · Tailwind CSS 4 · GSAP + ScrollTrigger. Same stack and style as Sushi Bento / BASST CUT / 24i.
 Arabic (right-to-left) by default, with an English switch — the choice is remembered on the device.
 

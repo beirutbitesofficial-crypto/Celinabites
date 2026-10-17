@@ -33,8 +33,8 @@ const strings = {
 
   storyKicker: { ar: "قصتنا", en: "Our story" },
   storyLine: {
-    ar: "بسيلينا بايتس منفتح الفرن مع أول ضو. عجينة طازة كل يوم، زعتر وجبنة متل ما بتحبّن، وكل لقمة بطعم البيت.",
-    en: "At Celina Bites the oven is lit at first light. Fresh dough every day, zaatar and cheese the way you like them — every bite tastes like home.",
+    ar: "بسيلينا باستري منفتح الفرن مع أول ضو. عجينة طازة كل يوم، زعتر وجبنة متل ما بتحبّن، وكل لقمة بطعم البيت.",
+    en: "At Celina Pastry the oven is lit at first light. Fresh dough every day, zaatar and cheese the way you like them — every bite tastes like home.",
   },
   statItems: { ar: "صنف عالقائمة", en: "things on the menu" },
   statDays: { ar: "أيام بالأسبوع", en: "days a week" },
@@ -94,7 +94,7 @@ const strings = {
   call: { ar: "اتصل", en: "Call" },
   directions: { ar: "الطريق", en: "Directions" },
   catering: { ar: "طلبيات المناسبات", en: "Catering" },
-  waHello: { ar: "مرحبا سيلينا بايتس!", en: "Hello Celina Bites!" },
+  waHello: { ar: "مرحبا سيلينا باستري!", en: "Hello Celina Pastry!" },
 
   footRights: { ar: "كل الحقوق محفوظة", en: "All rights reserved" },
 } satisfies Record<string, Text>;

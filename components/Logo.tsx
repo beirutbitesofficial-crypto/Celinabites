@@ -2,7 +2,7 @@
 
 import { useId } from "react";
 
-/** The Celina Bites mark: a golden manousheh, fingertip dimples, zaatar — with one bite taken out. */
+/** The Celina Pastry mark: a golden manousheh, fingertip dimples, zaatar — with one bite taken out. */
 export function LogoMark({ className = "", title }: { className?: string; title?: string }) {
   const uid = useId().replace(/:/g, "");
   return (
@@ -37,7 +37,7 @@ export function LogoMark({ className = "", title }: { className?: string; title?
 export function Wordmark({ className = "" }: { className?: string }) {
   return (
     <span lang="en" dir="ltr" className={`font-sans font-light uppercase tracking-[0.2em] ${className}`}>
-      <span className="text-gold">Celina</span> <span className="text-dough">Bites</span>
+      <span className="text-gold">Celina</span> <span className="text-dough">Pastry</span>
     </span>
   );
 }

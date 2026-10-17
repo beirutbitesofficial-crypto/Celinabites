@@ -80,7 +80,7 @@ export default function Hero() {
   );
 
   return (
-    <section ref={root} id="top" className="relative h-screen-s min-h-[580px] w-full overflow-hidden bg-ink" aria-label="Celina Bites">
+    <section ref={root} id="top" className="relative h-screen-s min-h-[580px] w-full overflow-hidden bg-ink" aria-label="Celina Pastry">
       {/* Backdrop: a giant manousheh in the dark, lit from below like the oven mouth */}
       <div className="hero-bg hero-reveal invisible-pre absolute inset-0">
         <div className="hero-bg-inner absolute -inset-[6%] grid place-items-center opacity-30 will-change-transform">
@@ -107,14 +107,14 @@ export default function Hero() {
       </div>
 
       <div className="hero-content relative z-10 flex h-full flex-col items-center justify-center px-5 pt-10 text-center">
-        <h1 className="sr-only">Celina Bites — سيلينا بايتس — {t("heroLine")}</h1>
+        <h1 className="sr-only">Celina Pastry — سيلينا باستري — {t("heroLine")}</h1>
         <LogoMark className="hero-mark hero-reveal invisible-pre w-[min(30vw,17svh)] drop-shadow-[0_20px_60px_rgba(212,168,67,0.35)] md:w-[min(13vw,19vh)]" />
 
         <div className="relative mt-7 md:mt-9" aria-hidden="true" dir="ltr">
           <p lang="en" className="hero-title hero-reveal invisible-pre whitespace-nowrap font-sans text-[10.5vw] font-extralight uppercase leading-none tracking-[0.1em] md:text-[7.2vw] md:tracking-[0.14em]">
             <SplitChars text="Celina" className="text-gold" />
             <span className="inline-block w-[0.35em]" />
-            <SplitChars text="Bites" />
+            <SplitChars text="Pastry" />
           </p>
           <p
             lang={lang}
@@ -148,7 +148,7 @@ export default function Hero() {
 
       <div className="hero-chrome pointer-events-none absolute inset-0 z-10">
         <div className="hero-corner hero-reveal invisible-pre absolute left-5 top-1/2 hidden -translate-y-1/2 font-serif text-2xl leading-[1.6] text-dough/30 [writing-mode:vertical-rl] md:left-10 md:block">
-          سيلينا بايتس
+          سيلينا باستري
         </div>
         <div lang="en" className="hero-corner hero-reveal invisible-pre absolute right-5 top-1/2 hidden -translate-y-1/2 text-[11px] uppercase tracking-[0.5em] text-dough/40 [writing-mode:vertical-rl] md:right-10 md:block">
           Manakish · Bakery · Pizza

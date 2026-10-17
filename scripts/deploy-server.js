@@ -43,4 +43,4 @@ http
     if (req.method === "HEAD") return res.end();
     fs.createReadStream(target).pipe(res);
   })
-  .listen(PORT, () => console.log(`Celina Bites on :${PORT}`));
+  .listen(PORT, () => console.log(`Celina Pastry on :${PORT}`));

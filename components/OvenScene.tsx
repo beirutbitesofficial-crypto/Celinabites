@@ -13,7 +13,7 @@ import { LogoMark } from "./Logo";
  *  3.4 – 4.6   the oven lowers in, the peel slides under, the manousheh goes into the fire
  *  4.6 – 5.8   fire flares, the crust turns golden
  *  5.8 – 7.0   out of the oven, back to the counter, steaming
- *  7.0 – 8.2   a paper wrap slides up, the Celina Bites stamp lands on it
+ *  7.0 – 8.2   a paper wrap slides up, the Celina Pastry stamp lands on it
  *  8.2 – 9.0   hold
  */
 
@@ -293,10 +293,10 @@ export default function OvenScene() {
               CELINA
             </text>
             <text x={C.x} y={C.y + 161} textAnchor="middle" fontFamily="var(--font-manrope), sans-serif" fontWeight="700" fontSize="30" letterSpacing="6" fill="#8E2A1F">
-              BITES
+              PASTRY
             </text>
             <text x={C.x} y={C.y + 193} textAnchor="middle" fontFamily="var(--font-reem), sans-serif" fontSize="20" fill="#8E2A1F">
-              سيلينا بايتس
+              سيلينا باستري
             </text>
           </g>
         </g>

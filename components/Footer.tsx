@@ -13,7 +13,7 @@ export default function Footer() {
         <div className="flex items-center gap-5" dir="ltr">
           <LogoMark className="h-16 w-16 md:h-24 md:w-24" />
           <p lang="en" className="font-sans text-[12vw] font-extralight uppercase leading-none tracking-[0.12em] md:text-[6vw]">
-            <span className="text-gold">Celina</span> Bites
+            <span className="text-gold">Celina</span> Pastry
           </p>
         </div>
         <nav aria-label="Footer">

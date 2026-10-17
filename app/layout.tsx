@@ -14,18 +14,18 @@ const tajawal = Tajawal({ weight: ["300", "400", "500", "700", "800"], subsets: 
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://celinabites.com"),
-  title: "Celina Bites | سيلينا بايتس — مناقيش، كرواسون، بيتزا، معجنات",
+  title: "Celina Pastry | سيلينا باستري — مناقيش، كرواسون، بيتزا، معجنات",
   description:
-    "Celina Bites — مناقيش، كرواسون، بيتزا، معجنات وكعك لبناني طازج كل يوم. Fresh manakish, croissants, pizza, pastries and kaak — order on WhatsApp.",
-  keywords: ["Celina Bites", "سيلينا بايتس", "مناقيش", "كرواسون", "بيتزا", "معجنات", "كعك", "manakish", "Lebanon"],
+    "Celina Pastry — مناقيش، كرواسون، بيتزا، معجنات وكعك لبناني طازج كل يوم. Fresh manakish, croissants, pizza, pastries and kaak — order on WhatsApp.",
+  keywords: ["Celina Pastry", "سيلينا باستري", "Celina Bites", "مناقيش", "كرواسون", "بيتزا", "معجنات", "كعك", "manakish", "Lebanon"],
   robots: site.preview ? { index: false, follow: false } : undefined,
   icons: { icon: [{ url: "/icon.svg", type: "image/svg+xml" }] },
   openGraph: {
-    title: "Celina Bites | سيلينا بايتس",
+    title: "Celina Pastry | سيلينا باستري",
     description: "مناقيش · كرواسون · بيتزا · معجنات — كل لقمة بطعم البيت",
     type: "website",
     url: "https://celinabites.com/",
-    images: [{ url: "/og.png", width: 1200, height: 630, alt: "Celina Bites" }],
+    images: [{ url: "/og.png", width: 1200, height: 630, alt: "Celina Pastry" }],
   },
 };
 

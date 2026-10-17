@@ -78,7 +78,7 @@ export default function Visit() {
           <p className="mt-3 text-sm text-dough/55">{t("delivPick")}</p>
           <a href={site.directionsUrl} target="_blank" rel="noopener noreferrer" className="relative mt-6 block aspect-[16/10] overflow-hidden rounded-2xl ring-1 ring-dough/10" aria-label={t("openMaps")}>
             <iframe
-              title="Celina Bites — map"
+              title="Celina Pastry — map"
               src={site.mapEmbed}
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"

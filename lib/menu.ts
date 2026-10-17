@@ -1,5 +1,5 @@
 /**
- * Celina Bites menu — transcribed from the menu on the previous celinabites.com.
+ * Celina Pastry menu — transcribed from the menu on the previous celinabites.com.
  * Prices in Lebanese pounds (LBP). Every item has an Arabic and an English name.
  *
  * Edit freely: change a price, add an item, or add `soldOut: true` to hide the add button.

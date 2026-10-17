@@ -2,8 +2,8 @@
  * Central place for brand content & links. Edit here — every section reads from this file.
  */
 export const site = {
-  name: "Celina Bites",
-  nameAr: "سيلينا بايتس",
+  name: "Celina Pastry",
+  nameAr: "سيلينا باستري",
   /** WhatsApp number that receives orders, international format, digits only. */
   whatsapp: "96181626267",
   /** Phones shown on the site (the first one is the "Call" button). */
