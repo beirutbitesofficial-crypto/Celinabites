@@ -283,7 +283,7 @@ export function Bake({ kind, className = "", uid }: { kind: BakeKind; className?
 export function bakeFor(itemId: string, catArt: string): BakeKind {
   if (itemId.includes("lotus")) return "lotus";
   if (itemId.startsWith("sawari")) return "sawari";
-  if (catArt === "manousheh") return /cheese|awarma|taouk|fajita|mexicana|kishk|lahme|cocktail|muhammara/.test(itemId) ? "cheese" : "zaatar";
+  if (catArt === "manousheh") return /cheese|awarma|turkey|bikatchu|taouk|fajita|mexicana|kishk|lahme|cocktail|muhammara/.test(itemId) ? "cheese" : "zaatar";
   if (catArt === "croissant") return "croissant";
   if (catArt === "kaak") return "kaak";
   if (catArt === "pizza") return "pizza";
