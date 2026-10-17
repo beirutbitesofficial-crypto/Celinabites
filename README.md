@@ -37,13 +37,18 @@ npm run build    # static site in out/
 
 ## Deploy on Hostinger
 
-The site is plain static files (no Node server needed).
+Hostinger's servers can't build Next.js, so the site is **built on GitHub** and Hostinger only runs it:
 
-- Every push to `main` runs `.github/workflows/deploy.yml`: it builds the site and publishes the ready files to the
-  **`deploy`** branch (and as a downloadable **celina-bites-website** artifact in the Actions tab).
-- hPanel → **Websites → celinabites.com → Advanced → Git** → repository `beirutbitesofficial-crypto/Celinabites`,
-  branch **`deploy`**, install path empty (= `public_html`). Turn on auto-deployment so every push goes live.
-- Or by hand: download the artifact and upload its contents to `public_html` (replace the old `index.html`).
+- Every push to `main` runs `.github/workflows/deploy.yml`: it builds the site and publishes a ready-to-run copy
+  to the **`deploy`** branch — the static files plus a tiny dependency-free `server.js` (`scripts/deploy-server.js`).
+
+**Node.js web app (Deployment from GitHub):**
+1. Repository `Celinabites`, branch **`deploy`** (not `main` — `main` needs a build Hostinger can't do).
+2. Framework **Other / Express / Node.js** (not Next.js) · Node 20 or 22.
+3. Build command `npm run build` (does nothing) · Start command `npm start` · Entry file `server.js` if asked.
+
+**Or plain hosting:** hPanel → Websites → Advanced → **Git**, same repo, branch `deploy`, path empty (= `public_html`).
+Or download the **celina-bites-website** artifact from the Actions tab and upload its contents to `public_html`.
 
 ## Motion & accessibility
 
